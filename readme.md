@@ -12,9 +12,9 @@ Artes vetoriais são utilizadas na web, nas gráficas e nos jogos, permitindo vi
 
 [![curso 2021](img/capa.png)](https://www.youtube.com/watch?v=xBnYS0HYqyI)
 
-- Sobre SVG
+## Sobre SVG
 
-## História do SVG
+### História do SVG
 
 - Criado em 1998 pela W3C.
 - Começou a ser usado até 2005 quando adobe começou usar o Flash e SVG caiu em parou de ser usado nos navegadores.
@@ -33,7 +33,7 @@ Artes vetoriais são utilizadas na web, nas gráficas e nos jogos, permitindo vi
 - SVG se integra a outros padrões W3C, como DOM e XSL.
 - Ele NÃO permite tantos detalhes como uma imagem com pixel
 
-## Vantagens do SVG
+### Vantagens do SVG
 
 - As vantagens de usar SVG em relação a outros formatos de imagem (como JPEG e GIF) são:
 - As imagens SVG podem ser criadas e editadas com qualquer editor de texto.
@@ -52,7 +52,7 @@ Artes vetoriais são utilizadas na web, nas gráficas e nos jogos, permitindo vi
 </svg>
 ```
 
-## Exemplos de Animações
+### Exemplos de Animações
 
 ![img/Gears_8IWk3lq.svg](img/Gears_8IWk3lq.svg)
 
