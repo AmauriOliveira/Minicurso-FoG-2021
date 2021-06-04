@@ -12,6 +12,10 @@ Artes vetoriais são utilizadas na web, nas gráficas e nos jogos, permitindo vi
 
 [![curso 2021](img/capa.png)](https://www.youtube.com/watch?v=xBnYS0HYqyI)
 
+> Download do PDF
+
+![DOWNLOAD](Desenhos vetoriais no Inkscape.pdf)
+
 ## Sobre SVG
 
 ### História do SVG
