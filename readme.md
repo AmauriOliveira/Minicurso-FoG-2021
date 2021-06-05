@@ -70,6 +70,8 @@ Criação de imagens SVG As imagens SVG podem ser criadas com qualquer editor de
 
 [Download](https://inkscape.org/release/inkscape-master/?latest=1)
 
+[Plugin](https://inkscape.org/~olibia/%E2%98%85generate-palette-extension)
+
 ## Configuração
 
 - Como configurar
@@ -273,3 +275,4 @@ Minicurso ministrado pelo membro do FoG, Amauri Antonio de Oliveira
 [curso Udemy](https://www.udemy.com/course/aprendendo-svg-do-inicio-ao-avancado)
 
 [curso Udemy](https://www.udemy.com/course/desenvolvimento-de-artes-para-jogos)
+
