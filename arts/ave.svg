@@ -5,7 +5,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="ave.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -65,18 +65,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.01"
-     inkscape:cx="-39100"
-     inkscape:cy="-45150"
+     inkscape:zoom="0.04"
+     inkscape:cx="-28400"
+     inkscape:cy="-53412.5"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:window-width="1366"
-     inkscape:window-height="658"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-height="715"
+     inkscape:window-x="1016"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
      showguides="true"
@@ -303,7 +303,7 @@
        r="0.5274778" />
     <g
        id="g8429"
-       transform="translate(-5840.9458,-11104.845)">
+       transform="matrix(0.09516608,0,0,0.09516608,-8373.9058,-13801.402)">
       <circle
          id="circle6540"
          style="fill:#f2faf2;stroke:#aa0000;stroke-width:0.264583"
@@ -442,7 +442,7 @@
     </g>
     <g
        id="g29207"
-       transform="translate(151.62094,-10013.245)">
+       transform="matrix(0.09516608,0,0,0.09516608,-7803.6171,-13697.519)">
       <g
          id="g26562"
          transform="translate(3987.4591,334.01345)">
