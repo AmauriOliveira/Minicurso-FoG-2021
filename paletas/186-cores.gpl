@@ -3,7 +3,7 @@ Name: 186 cores
 #
 # Generated with Inkscape Generate Palette
 #
-255 255 255  White (#FFFFFF)
+255 255 255  #FFFFFF
 255 242 188  #FFF2BC
 255 245 222  #FFF5DE
 249 237 102  #F9ED66
@@ -141,7 +141,7 @@ Name: 186 cores
 118 102  95  #76665F
 183 117  97  #B77561
 161  93  94  #A15D5E
-  0   0   0  Black (#000000)
+  0   0   0  #000000
 229  95 122  #E55F7A
 145 145 151  #919197
  99 101 102  #636566

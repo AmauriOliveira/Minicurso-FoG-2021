@@ -1,6 +1,6 @@
 GIMP Palette
 Name: Super Palette
-  0   0   0  Black (#000000)
+  0   0   0  #000000
   0  98 173  #0062AD
   0 115 162  #0073A2
   0 118  98  #007662
@@ -186,4 +186,4 @@ Name: Super Palette
 255 232 139  #FFE88B
 255 242 188  #FFF2BC
 255 245 222  #FFF5DE
-255 255 255  White (#FFFFFF)
+255 255 255  #FFFFFF
